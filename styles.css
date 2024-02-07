@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(8,7,8);
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(35, 206, 107);
+}
+
+h2{
+    color: rgb(35, 206, 107);
+}
+
+img{
+    width: 200px;
+}
+
+p{
+    font-family: monospace;
+    color: rgb(232, 241, 242);
+}
+ul{
+    color: rgb(232, 241, 242);
+}
+
+.Trabalho{
+    font-size: medium;
+    
+}
+.javascript{
+    font-size: medium;
+}
+.Dedicado{
+    font-size: medium;
+}
+.Html{
+    font-size: medium;
+}
+.Css{
+    font-size: medium;
+}
+
+a{
+    color: rgb(149, 216, 247);
+}
