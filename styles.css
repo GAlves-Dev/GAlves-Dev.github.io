@@ -1,0 +1,42 @@
+body{
+    background-color: #294936;
+}
+
+.meuNome{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.descricao{
+    font-family: 'Times New Roman', Times, serif;
+    color: #AEF6C7;
+}
+
+.resido{
+    color: #AEF6C7;
+    font-size: 20px;
+}
+
+.lista{
+    color: white;
+}
+
+.trabalho{
+    color: #AEF6C7;
+}
+
+.dedicado{
+    color: #AEF6C7;
+}
+
+.javascript{
+    color: #AEF6C7;
+}
+
+.html{
+    color: #AEF6C7;
+}
+
+.css{
+    color: #AEF6C7;
+}
